@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "partyRole": {
+      "type": "object",
+      "$ref": "partyRole.json"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "partyId": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "partyType":{
+      "$ref": "partyType.json"
+    }
+  }
+}

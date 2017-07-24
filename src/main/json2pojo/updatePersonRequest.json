@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "birthDate": {
+      "type" : "string"
+    }
+  }
+}

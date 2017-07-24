@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "partyRoles": {
+      "type": "array",
+      "items": {
+        "$ref": "partyRole.json"
+      }
+    }
+  }
+}
